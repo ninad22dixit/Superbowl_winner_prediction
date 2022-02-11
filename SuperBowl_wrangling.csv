@@ -1,0 +1,569 @@
+Week,Date,Start_Time,Overtime,Home_game,Opponent,Score,Opp_score,1st_downs,Total_yards,Rushing_yards,Turnovers,Opp_1st_downs,Opp_Total_yards,Opp_Rushing_yards,Opp_Turnovers,Team
+1,2021-09-12,13:00:00,0,1,Pittsburgh Steelers,16,23,22,371,117,1,16,252,75,0,Buffalo Bills
+2,2021-09-19,13:00:00,0,0,Miami Dolphins,35,0,21,314,143,2,13,223,71,3,Buffalo Bills
+3,2021-09-26,13:00:00,0,1,Washington Football Team,43,21,29,481,122,0,13,290,78,3,Buffalo Bills
+4,2021-10-03,13:00:00,0,1,Houston Texans,40,0,26,450,199,1,6,109,48,5,Buffalo Bills
+5,2021-10-10,20:20:00,0,0,Kansas City Chiefs,38,20,20,436,121,0,29,392,120,4,Buffalo Bills
+6,2021-10-18,20:15:00,0,0,Tennessee Titans,31,34,28,417,82,1,16,362,146,1,Buffalo Bills
+8,2021-10-31,13:00:00,0,1,Miami Dolphins,26,11,24,351,102,0,16,262,68,2,Buffalo Bills
+9,2021-11-07,13:00:00,0,0,Jacksonville Jaguars,6,9,17,301,72,3,16,218,79,1,Buffalo Bills
+10,2021-11-14,13:00:00,0,0,New York Jets,45,17,26,489,139,2,22,366,70,5,Buffalo Bills
+11,2021-11-21,13:00:00,0,1,Indianapolis Colts,15,41,19,311,91,4,28,370,264,0,Buffalo Bills
+12,2021-11-25,20:20:00,0,0,New Orleans Saints,31,6,21,361,113,2,12,190,44,1,Buffalo Bills
+13,2021-12-06,20:15:00,0,1,New England Patriots,10,14,16,230,99,1,11,241,222,1,Buffalo Bills
+14,2021-12-12,16:25:00,1,0,Tampa Bay Buccaneers,27,33,27,466,173,1,26,488,137,0,Buffalo Bills
+15,2021-12-19,13:00:00,0,1,Carolina Panthers,31,14,21,312,119,1,19,275,151,1,Buffalo Bills
+16,2021-12-26,13:00:00,0,0,New England Patriots,33,21,28,428,114,0,20,288,149,2,Buffalo Bills
+17,2022-01-02,13:00:00,0,1,Atlanta Falcons,29,15,28,351,233,3,18,265,96,1,Buffalo Bills
+18,2022-01-09,13:00:00,0,1,New York Jets,27,10,25,424,170,0,4,53,48,0,Buffalo Bills
+19,2022-01-15,20:15:00,0,1,New England Patriots,47,17,29,482,174,0,20,305,89,2,Buffalo Bills
+20,2022-01-23,18:30:00,1,0,Kansas City Chiefs,36,42,23,422,109,0,30,552,182,0,Buffalo Bills
+1,2021-09-12,16:25:00,0,1,Miami Dolphins,16,17,24,393,125,2,16,259,74,1,New England Patrios
+2,2021-09-19,13:00:00,0,0,New York Jets,25,6,17,260,101,0,18,336,152,4,New England Patrios
+3,2021-09-26,13:00:00,0,1,New Orleans Saints,13,28,16,300,49,3,19,252,142,0,New England Patrios
+4,2021-10-03,20:20:00,0,1,Tampa Bay Buccaneers,17,19,20,294,-1,2,22,381,120,0,New England Patrios
+5,2021-10-10,13:00:00,0,0,Houston Texans,25,22,21,352,126,2,14,360,67,1,New England Patrios
+6,2021-10-17,16:25:00,1,1,Dallas Cowboys,29,35,17,335,120,2,32,567,122,2,New England Patrios
+7,2021-10-24,13:00:00,0,1,New York Jets,54,13,32,551,148,0,18,299,62,3,New England Patrios
+8,2021-10-31,16:05:00,0,0,Los Angeles Chargers,27,24,21,352,142,1,17,369,163,2,New England Patrios
+9,2021-11-07,13:00:00,0,0,Carolina Panthers,24,6,17,273,151,2,13,240,78,3,New England Patrios
+10,2021-11-14,13:00:00,0,1,Cleveland Browns,45,7,30,452,184,0,17,217,99,1,New England Patrios
+11,2021-11-18,20:20:00,0,0,Atlanta Falcons,25,0,20,308,134,1,11,165,40,4,New England Patrios
+12,2021-11-28,13:00:00,0,1,Tennessee Titans,36,13,23,394,105,0,18,355,270,4,New England Patrios
+13,2021-12-06,20:15:00,0,0,Buffalo Bills,14,10,11,241,222,1,16,230,99,1,New England Patrios
+15,2021-12-18,20:20:00,0,0,Indianapolis Colts,17,27,20,365,81,2,15,275,226,1,New England Patrios
+16,2021-12-26,13:00:00,0,1,Buffalo Bills,21,33,20,288,149,2,28,428,114,0,New England Patrios
+17,2022-01-02,13:00:00,0,1,Jacksonville Jaguars,50,10,32,471,181,0,11,253,80,3,New England Patrios
+18,2022-01-09,13:00:00,0,0,Miami Dolphins,24,33,21,379,134,3,23,298,195,0,New England Patrios
+19,2022-01-15,20:15:00,0,0,Buffalo Bills,17,47,20,305,89,2,29,482,174,0,New England Patrios
+1,2021-09-12,16:25:00,0,0,New England Patriots,17,16,16,259,74,1,24,393,125,2,Miami Dolphins
+2,2021-09-19,13:00:00,0,1,Buffalo Bills,0,35,13,223,71,3,21,314,143,2,Miami Dolphins
+3,2021-09-26,16:05:00,1,0,Las Vegas Raiders,28,31,22,330,133,0,28,497,140,1,Miami Dolphins
+4,2021-10-03,13:00:00,0,1,Indianapolis Colts,17,27,13,203,35,2,20,349,139,1,Miami Dolphins
+5,2021-10-10,13:00:00,0,0,Tampa Bay Buccaneers,17,45,17,301,39,2,33,558,121,0,Miami Dolphins
+6,2021-10-17,09:30:00,0,0,Jacksonville Jaguars,20,23,23,431,77,1,21,396,84,1,Miami Dolphins
+7,2021-10-24,13:00:00,0,1,Atlanta Falcons,28,30,27,413,132,2,21,397,72,2,Miami Dolphins
+8,2021-10-31,13:00:00,0,0,Buffalo Bills,11,26,16,262,68,2,24,351,102,0,Miami Dolphins
+9,2021-11-07,13:00:00,0,1,Houston Texans,17,9,22,262,47,5,14,272,73,4,Miami Dolphins
+10,2021-11-11,20:20:00,0,1,Baltimore Ravens,22,10,17,350,60,0,23,304,94,2,Miami Dolphins
+11,2021-11-21,13:00:00,0,0,New York Jets,24,17,20,388,115,1,18,380,102,1,Miami Dolphins
+12,2021-11-28,13:00:00,0,1,Carolina Panthers,33,10,22,315,111,1,10,198,64,3,Miami Dolphins
+13,2021-12-05,13:00:00,0,1,New York Giants,20,9,19,297,68,0,16,250,91,1,Miami Dolphins
+15,2021-12-19,13:00:00,0,1,New York Jets,31,24,23,379,183,3,16,228,102,1,Miami Dolphins
+16,2021-12-27,20:15:00,0,0,New Orleans Saints,20,3,16,259,86,1,10,164,83,2,Miami Dolphins
+17,2022-01-02,13:00:00,0,0,Tennessee Titans,3,34,16,256,74,2,17,308,198,0,Miami Dolphins
+18,2022-01-09,13:00:00,0,1,New England Patriots,33,24,23,298,195,0,21,379,134,3,Miami Dolphins
+1,2021-09-12,13:00:00,0,0,Carolina Panthers,14,19,16,252,45,1,18,381,111,1,New York Jets
+2,2021-09-19,13:00:00,0,1,New England Patriots,6,25,18,336,152,4,17,260,101,0,New York Jets
+3,2021-09-26,16:05:00,0,0,Denver Broncos,0,26,11,162,43,2,23,343,120,1,New York Jets
+4,2021-10-03,13:00:00,1,1,Tennessee Titans,27,24,16,355,66,1,30,430,177,0,New York Jets
+5,2021-10-10,09:30:00,0,0,Atlanta Falcons,20,27,17,230,64,1,28,450,108,2,New York Jets
+7,2021-10-24,13:00:00,0,0,New England Patriots,13,54,18,299,62,3,32,551,148,0,New York Jets
+8,2021-10-31,13:00:00,0,1,Cincinnati Bengals,34,31,32,511,97,3,18,318,41,1,New York Jets
+9,2021-11-04,20:20:00,0,0,Indianapolis Colts,30,45,30,486,88,2,28,532,260,0,New York Jets
+10,2021-11-14,13:00:00,0,1,Buffalo Bills,17,45,22,366,70,5,26,489,139,2,New York Jets
+11,2021-11-21,13:00:00,0,1,Miami Dolphins,17,24,18,380,102,1,20,388,115,1,New York Jets
+12,2021-11-28,13:00:00,0,0,Houston Texans,21,14,18,266,157,1,13,202,96,1,New York Jets
+13,2021-12-05,13:00:00,0,1,Philadelphia Eagles,18,33,21,281,70,1,26,418,185,0,New York Jets
+14,2021-12-12,13:00:00,0,1,New Orleans Saints,9,30,13,256,78,0,21,344,203,0,New York Jets
+15,2021-12-19,13:00:00,0,0,Miami Dolphins,24,31,16,228,102,1,23,379,183,3,New York Jets
+16,2021-12-26,13:00:00,0,1,Jacksonville Jaguars,26,21,18,373,273,0,27,384,132,1,New York Jets
+17,2022-01-02,13:00:00,0,1,Tampa Bay Buccaneers,24,28,22,374,150,1,26,467,62,1,New York Jets
+18,2022-01-09,13:00:00,0,0,Buffalo Bills,10,27,4,53,48,0,25,424,170,0,New York Jets
+1,2021-09-12,13:00:00,0,1,Arizona Cardinals,13,38,17,248,86,3,22,416,136,1,Tennessee Titans
+2,2021-09-19,16:25:00,1,0,Seattle Seahawks,33,30,33,532,212,1,17,397,77,0,Tennessee Titans
+3,2021-09-26,13:00:00,0,1,Indianapolis Colts,25,16,24,368,180,3,19,265,87,0,Tennessee Titans
+4,2021-10-03,13:00:00,1,0,New York Jets,24,27,30,430,177,0,16,355,66,1,Tennessee Titans
+5,2021-10-10,13:00:00,0,0,Jacksonville Jaguars,37,19,23,368,184,0,24,454,198,2,Tennessee Titans
+6,2021-10-18,20:15:00,0,1,Buffalo Bills,34,31,16,362,146,1,28,417,82,1,Tennessee Titans
+7,2021-10-24,13:00:00,0,1,Kansas City Chiefs,27,3,24,369,103,1,22,334,77,3,Tennessee Titans
+8,2021-10-31,13:00:00,1,0,Indianapolis Colts,34,31,18,340,93,2,24,307,83,3,Tennessee Titans
+9,2021-11-07,20:20:00,0,0,Los Angeles Rams,28,16,16,194,69,1,22,347,94,2,Tennessee Titans
+10,2021-11-14,13:00:00,0,1,New Orleans Saints,23,21,17,264,66,0,22,373,86,1,Tennessee Titans
+11,2021-11-21,13:00:00,0,1,Houston Texans,13,22,26,420,103,5,15,190,83,0,Tennessee Titans
+12,2021-11-28,13:00:00,0,0,New England Patriots,13,36,18,355,270,4,23,394,105,0,Tennessee Titans
+14,2021-12-12,13:00:00,0,1,Jacksonville Jaguars,20,0,22,263,102,0,9,192,8,4,Tennessee Titans
+15,2021-12-19,13:00:00,0,0,Pittsburgh Steelers,13,19,22,318,201,4,12,168,35,0,Tennessee Titans
+16,2021-12-23,20:20:00,0,1,San Francisco 49ers,20,17,16,278,90,0,22,389,83,2,Tennessee Titans
+17,2022-01-02,13:00:00,0,1,Miami Dolphins,34,3,17,308,198,0,16,256,74,2,Tennessee Titans
+18,2022-01-09,13:00:00,0,0,Houston Texans,28,25,23,405,124,0,18,353,64,0,Tennessee Titans
+20,2022-01-22,16:30:00,0,1,Cincinnati Bengals,16,19,16,353,140,3,17,345,65,1,Tennessee Titans
+1,2021-09-12,13:00:00,0,1,Seattle Seahawks,16,28,23,336,113,1,18,381,140,1,Indianapolis Colts
+2,2021-09-19,13:00:00,0,1,Los Angeles Rams,24,27,22,354,109,2,21,371,101,2,Indianapolis Colts
+3,2021-09-26,13:00:00,0,0,Tennessee Titans,16,25,19,265,87,0,24,368,180,3,Indianapolis Colts
+4,2021-10-03,13:00:00,0,0,Miami Dolphins,27,17,20,349,139,1,13,203,35,2,Indianapolis Colts
+5,2021-10-11,20:15:00,1,0,Baltimore Ravens,25,31,29,513,123,1,30,523,86,1,Indianapolis Colts
+6,2021-10-17,13:00:00,0,1,Houston Texans,31,3,15,388,174,0,19,353,124,3,Indianapolis Colts
+7,2021-10-24,20:20:00,0,0,San Francisco 49ers,30,18,17,295,148,2,13,280,111,4,Indianapolis Colts
+8,2021-10-31,13:00:00,1,1,Tennessee Titans,31,34,24,307,83,3,18,340,93,2,Indianapolis Colts
+9,2021-11-04,20:20:00,0,1,New York Jets,45,30,28,532,260,0,30,486,88,2,Indianapolis Colts
+10,2021-11-14,13:00:00,0,1,Jacksonville Jaguars,23,17,15,295,127,0,15,331,179,1,Indianapolis Colts
+11,2021-11-21,13:00:00,0,0,Buffalo Bills,41,15,28,370,264,0,19,311,91,4,Indianapolis Colts
+12,2021-11-28,13:00:00,0,1,Tampa Bay Buccaneers,31,38,24,392,107,5,28,359,142,2,Indianapolis Colts
+13,2021-12-05,13:00:00,0,0,Houston Texans,31,0,26,389,238,1,9,141,84,2,Indianapolis Colts
+15,2021-12-18,20:20:00,0,1,New England Patriots,27,17,15,275,226,1,20,365,81,2,Indianapolis Colts
+16,2021-12-25,20:15:00,0,0,Arizona Cardinals,22,16,20,346,126,0,20,378,133,0,Indianapolis Colts
+17,2022-01-02,13:00:00,0,1,Las Vegas Raiders,20,23,16,262,122,0,18,326,85,2,Indianapolis Colts
+18,2022-01-09,13:00:00,0,0,Jacksonville Jaguars,11,26,13,233,94,2,19,318,101,0,Indianapolis Colts
+1,2021-09-12,13:00:00,0,1,Jacksonville Jaguars,37,21,22,449,160,0,20,395,76,3,Houston Texans
+2,2021-09-19,13:00:00,0,0,Cleveland Browns,21,31,17,302,82,2,22,355,156,2,Houston Texans
+3,2021-09-23,20:20:00,0,1,Carolina Panthers,9,24,14,193,42,0,28,407,117,0,Houston Texans
+4,2021-10-03,13:00:00,0,0,Buffalo Bills,0,40,6,109,48,5,26,450,199,1,Houston Texans
+5,2021-10-10,13:00:00,0,1,New England Patriots,22,25,14,360,67,1,21,352,126,2,Houston Texans
+6,2021-10-17,13:00:00,0,0,Indianapolis Colts,3,31,19,353,124,3,15,388,174,0,Houston Texans
+7,2021-10-24,16:25:00,0,0,Arizona Cardinals,5,31,8,160,42,1,24,397,172,1,Houston Texans
+8,2021-10-31,13:00:00,0,1,Los Angeles Rams,22,38,18,323,44,1,26,467,165,0,Houston Texans
+9,2021-11-07,13:00:00,0,0,Miami Dolphins,9,17,14,272,73,4,22,262,47,5,Houston Texans
+11,2021-11-21,13:00:00,0,0,Tennessee Titans,22,13,15,190,83,0,26,420,103,5,Houston Texans
+12,2021-11-28,13:00:00,0,1,New York Jets,14,21,13,202,96,1,18,266,157,1,Houston Texans
+13,2021-12-05,13:00:00,0,1,Indianapolis Colts,0,31,9,141,84,2,26,389,238,1,Houston Texans
+14,2021-12-12,13:00:00,0,1,Seattle Seahawks,13,33,25,380,63,0,20,453,193,0,Houston Texans
+15,2021-12-19,13:00:00,0,0,Jacksonville Jaguars,30,16,13,281,75,1,21,296,107,0,Houston Texans
+16,2021-12-26,13:00:00,0,1,Los Angeles Chargers,41,29,26,437,189,0,25,417,89,3,Houston Texans
+17,2022-01-02,16:05:00,0,0,San Francisco 49ers,7,23,15,222,86,1,19,416,175,1,Houston Texans
+18,2022-01-09,13:00:00,0,1,Tennessee Titans,25,28,18,353,64,0,23,405,124,0,Houston Texans
+1,2021-09-12,13:00:00,0,0,Houston Texans,21,37,20,395,76,3,22,449,160,0,Jacksonville Jaguars
+2,2021-09-19,13:00:00,0,1,Denver Broncos,13,23,12,189,75,2,22,398,96,0,Jacksonville Jaguars
+3,2021-09-26,13:00:00,0,1,Arizona Cardinals,19,31,20,361,159,4,23,407,91,1,Jacksonville Jaguars
+4,2021-09-30,20:20:00,0,0,Cincinnati Bengals,21,24,21,341,139,0,21,420,78,0,Jacksonville Jaguars
+5,2021-10-10,13:00:00,0,1,Tennessee Titans,19,37,24,454,198,2,23,368,184,0,Jacksonville Jaguars
+6,2021-10-17,09:30:00,0,1,Miami Dolphins,23,20,21,396,84,1,23,431,77,1,Jacksonville Jaguars
+8,2021-10-31,16:05:00,0,0,Seattle Seahawks,7,31,20,309,82,1,17,229,69,0,Jacksonville Jaguars
+9,2021-11-07,13:00:00,0,1,Buffalo Bills,9,6,16,218,79,1,17,301,72,3,Jacksonville Jaguars
+10,2021-11-14,13:00:00,0,0,Indianapolis Colts,17,23,15,331,179,1,15,295,127,0,Jacksonville Jaguars
+11,2021-11-21,13:00:00,0,1,San Francisco 49ers,10,30,14,200,54,2,25,333,171,0,Jacksonville Jaguars
+12,2021-11-28,13:00:00,0,1,Atlanta Falcons,14,21,20,357,141,2,21,332,149,1,Jacksonville Jaguars
+13,2021-12-05,16:25:00,0,0,Los Angeles Rams,7,37,14,197,61,2,24,418,128,0,Jacksonville Jaguars
+14,2021-12-12,13:00:00,0,0,Tennessee Titans,0,20,9,192,8,4,22,263,102,0,Jacksonville Jaguars
+15,2021-12-19,13:00:00,0,1,Houston Texans,16,30,21,296,107,0,13,281,75,1,Jacksonville Jaguars
+16,2021-12-26,13:00:00,0,0,New York Jets,21,26,27,384,132,1,18,373,273,0,Jacksonville Jaguars
+17,2022-01-02,13:00:00,0,0,New England Patriots,10,50,11,253,80,3,32,471,181,0,Jacksonville Jaguars
+18,2022-01-09,13:00:00,0,1,Indianapolis Colts,26,11,19,318,101,0,13,233,94,2,Jacksonville Jaguars
+1,2021-09-12,13:00:00,1,1,Minnesota Vikings,27,24,20,366,149,0,24,403,67,1,Cincinnati Bengals
+2,2021-09-19,13:00:00,0,0,Chicago Bears,17,20,14,248,69,4,16,206,123,1,Cincinnati Bengals
+3,2021-09-26,13:00:00,0,0,Pittsburgh Steelers,24,10,12,268,96,1,21,342,45,2,Cincinnati Bengals
+4,2021-09-30,20:20:00,0,1,Jacksonville Jaguars,24,21,21,420,78,0,21,341,139,0,Cincinnati Bengals
+5,2021-10-10,13:00:00,1,1,Green Bay Packers,22,25,18,367,103,2,21,466,133,1,Cincinnati Bengals
+6,2021-10-17,13:00:00,0,0,Detroit Lions,34,11,20,398,142,1,15,228,36,1,Cincinnati Bengals
+7,2021-10-24,13:00:00,0,0,Baltimore Ravens,41,17,19,520,111,1,20,393,115,0,Cincinnati Bengals
+8,2021-10-31,13:00:00,0,0,New York Jets,31,34,18,318,41,1,32,511,97,3,Cincinnati Bengals
+9,2021-11-07,13:00:00,0,1,Cleveland Browns,16,41,25,348,85,3,14,361,153,0,Cincinnati Bengals
+11,2021-11-21,16:05:00,0,0,Las Vegas Raiders,32,13,23,288,159,1,13,278,72,2,Cincinnati Bengals
+12,2021-11-28,13:00:00,0,1,Pittsburgh Steelers,41,10,25,370,198,1,16,301,51,3,Cincinnati Bengals
+13,2021-12-05,13:00:00,0,1,Los Angeles Chargers,22,41,21,356,96,4,18,363,79,3,Cincinnati Bengals
+14,2021-12-12,13:00:00,1,1,San Francisco 49ers,23,26,22,397,86,2,21,355,100,0,Cincinnati Bengals
+15,2021-12-19,16:05:00,0,0,Denver Broncos,15,10,12,249,113,0,19,292,133,1,Cincinnati Bengals
+16,2021-12-26,13:00:00,0,1,Baltimore Ravens,41,21,33,575,77,0,21,334,39,1,Cincinnati Bengals
+17,2022-01-02,13:00:00,0,1,Kansas City Chiefs,34,31,23,475,60,0,23,414,155,0,Cincinnati Bengals
+18,2022-01-09,13:00:00,0,0,Cleveland Browns,16,21,11,182,79,0,24,376,205,2,Cincinnati Bengals
+19,2022-01-15,16:30:00,0,1,Las Vegas Raiders,26,19,18,308,83,0,23,385,103,2,Cincinnati Bengals
+20,2022-01-22,16:30:00,0,0,Tennessee Titans,19,16,17,345,65,1,16,353,140,3,Cincinnati Bengals
+21,2022-01-30,15:00:00,1,0,Kansas City Chiefs,27,24,21,359,116,1,24,375,139,2,Cincinnati Bengals
+1,2021-09-12,13:00:00,0,0,Buffalo Bills,23,16,16,252,75,0,22,371,117,1,Pittsburgh Steelers
+2,2021-09-19,13:00:00,0,1,Las Vegas Raiders,17,26,17,331,39,1,22,425,52,0,Pittsburgh Steelers
+3,2021-09-26,13:00:00,0,1,Cincinnati Bengals,10,24,21,342,45,2,12,268,96,1,Pittsburgh Steelers
+4,2021-10-03,16:25:00,0,0,Green Bay Packers,17,27,17,282,62,2,23,367,131,1,Pittsburgh Steelers
+5,2021-10-10,13:00:00,0,1,Denver Broncos,27,19,19,391,147,1,17,374,106,1,Pittsburgh Steelers
+6,2021-10-17,20:20:00,1,1,Seattle Seahawks,23,20,22,345,119,1,18,309,144,1,Pittsburgh Steelers
+8,2021-10-31,13:00:00,0,0,Cleveland Browns,15,10,21,370,115,0,19,306,96,1,Pittsburgh Steelers
+9,2021-11-08,20:15:00,0,1,Chicago Bears,29,27,20,280,105,1,20,414,136,2,Pittsburgh Steelers
+10,2021-11-14,13:00:00,1,1,Detroit Lions,16,16,22,387,145,3,17,306,229,0,Pittsburgh Steelers
+11,2021-11-21,20:20:00,0,0,Los Angeles Chargers,37,41,22,300,55,0,33,533,159,1,Pittsburgh Steelers
+12,2021-11-28,13:00:00,0,0,Cincinnati Bengals,10,41,16,301,51,3,25,370,198,1,Pittsburgh Steelers
+13,2021-12-05,16:25:00,0,1,Baltimore Ravens,20,19,17,321,85,0,22,326,107,1,Pittsburgh Steelers
+14,2021-12-09,20:20:00,0,0,Minnesota Vikings,28,36,22,375,106,1,22,458,242,2,Pittsburgh Steelers
+15,2021-12-19,13:00:00,0,1,Tennessee Titans,19,13,12,168,35,0,22,318,201,4,Pittsburgh Steelers
+16,2021-12-26,16:25:00,0,0,Kansas City Chiefs,10,36,20,303,130,3,25,381,127,0,Pittsburgh Steelers
+17,2022-01-03,20:15:00,0,1,Cleveland Browns,26,14,20,299,190,1,15,232,93,2,Pittsburgh Steelers
+18,2022-01-09,13:00:00,1,0,Baltimore Ravens,16,13,19,314,79,1,20,381,249,3,Pittsburgh Steelers
+19,2022-01-16,20:15:00,0,0,Kansas City Chiefs,21,42,19,257,56,1,26,478,106,2,Pittsburgh Steelers
+1,2021-09-12,16:25:00,0,0,Kansas City Chiefs,29,33,24,457,153,2,21,397,73,0,Cleveland Browns
+2,2021-09-19,13:00:00,0,1,Houston Texans,31,21,22,355,156,2,17,302,82,2,Cleveland Browns
+3,2021-09-26,13:00:00,0,1,Chicago Bears,26,6,26,418,215,0,6,47,46,0,Cleveland Browns
+4,2021-10-03,13:00:00,0,0,Minnesota Vikings,14,7,20,327,184,0,16,255,65,1,Cleveland Browns
+5,2021-10-10,16:05:00,0,0,Los Angeles Chargers,42,47,25,531,230,0,27,493,112,1,Cleveland Browns
+6,2021-10-17,16:05:00,0,1,Arizona Cardinals,14,37,16,290,73,3,24,352,144,0,Cleveland Browns
+7,2021-10-21,20:20:00,0,1,Denver Broncos,17,14,23,376,182,0,15,223,41,1,Cleveland Browns
+8,2021-10-31,13:00:00,0,1,Pittsburgh Steelers,10,15,19,306,96,1,21,370,115,0,Cleveland Browns
+9,2021-11-07,13:00:00,0,0,Cincinnati Bengals,41,16,14,361,153,0,25,348,85,3,Cleveland Browns
+10,2021-11-14,13:00:00,0,0,New England Patriots,7,45,17,217,99,1,30,452,184,0,Cleveland Browns
+11,2021-11-21,13:00:00,0,1,Detroit Lions,13,10,22,349,184,2,12,245,168,2,Cleveland Browns
+12,2021-11-28,20:20:00,0,0,Baltimore Ravens,10,16,14,262,40,2,22,303,148,4,Cleveland Browns
+14,2021-12-12,13:00:00,0,1,Baltimore Ravens,24,22,20,290,100,1,21,389,118,2,Cleveland Browns
+15,2021-12-20,17:00:00,0,1,Las Vegas Raiders,14,16,13,236,89,0,20,328,98,2,Cleveland Browns
+16,2021-12-25,16:30:00,0,0,Green Bay Packers,22,24,28,408,219,4,19,311,109,0,Cleveland Browns
+17,2022-01-03,20:15:00,0,0,Pittsburgh Steelers,14,26,15,232,93,2,20,299,190,1,Cleveland Browns
+18,2022-01-09,13:00:00,0,1,Cincinnati Bengals,21,16,24,376,205,2,11,182,79,0,Cleveland Browns
+1,2021-09-13,20:15:00,1,0,Las Vegas Raiders,27,33,20,406,189,2,26,491,82,1,Baltimore Ravens
+2,2021-09-19,20:20:00,0,1,Kansas City Chiefs,36,35,31,481,251,2,22,405,62,2,Baltimore Ravens
+3,2021-09-26,13:00:00,0,0,Detroit Lions,19,17,15,387,116,1,22,285,93,0,Baltimore Ravens
+4,2021-10-03,16:25:00,0,0,Denver Broncos,23,7,20,406,102,0,15,254,106,1,Baltimore Ravens
+5,2021-10-11,20:15:00,1,1,Indianapolis Colts,31,25,30,523,86,1,29,513,123,1,Baltimore Ravens
+6,2021-10-17,13:00:00,0,1,Los Angeles Chargers,34,6,27,327,187,2,14,208,26,1,Baltimore Ravens
+7,2021-10-24,13:00:00,0,1,Cincinnati Bengals,17,41,20,393,115,0,19,520,111,1,Baltimore Ravens
+9,2021-11-07,13:00:00,1,1,Minnesota Vikings,34,31,36,500,247,2,13,318,131,0,Baltimore Ravens
+10,2021-11-11,20:20:00,0,0,Miami Dolphins,10,22,23,304,94,2,17,350,60,0,Baltimore Ravens
+11,2021-11-21,13:00:00,0,0,Chicago Bears,16,13,23,299,123,1,14,353,92,1,Baltimore Ravens
+12,2021-11-28,20:20:00,0,1,Cleveland Browns,16,10,22,303,148,4,14,262,40,2,Baltimore Ravens
+13,2021-12-05,16:25:00,0,0,Pittsburgh Steelers,19,20,22,326,107,1,17,321,85,0,Baltimore Ravens
+14,2021-12-12,13:00:00,0,0,Cleveland Browns,22,24,21,389,118,2,20,290,100,1,Baltimore Ravens
+15,2021-12-19,13:00:00,0,1,Green Bay Packers,30,31,24,354,143,0,26,346,96,0,Baltimore Ravens
+16,2021-12-26,13:00:00,0,0,Cincinnati Bengals,21,41,21,334,39,1,33,575,77,0,Baltimore Ravens
+17,2022-01-02,16:25:00,0,1,Los Angeles Rams,19,20,19,327,165,2,20,373,73,3,Baltimore Ravens
+18,2022-01-09,13:00:00,1,1,Pittsburgh Steelers,13,16,20,381,249,3,19,314,79,1,Baltimore Ravens
+1,2021-09-12,16:25:00,0,1,Cleveland Browns,33,29,21,397,73,0,24,457,153,2,Kansas City Chiefs
+2,2021-09-19,20:20:00,0,0,Baltimore Ravens,35,36,22,405,62,2,31,481,251,2,Kansas City Chiefs
+3,2021-09-26,13:00:00,0,1,Los Angeles Chargers,24,30,33,437,186,4,21,352,77,0,Kansas City Chiefs
+4,2021-10-03,13:00:00,0,0,Philadelphia Eagles,42,30,31,471,200,1,30,461,103,0,Kansas City Chiefs
+5,2021-10-10,20:20:00,0,1,Buffalo Bills,20,38,29,392,120,4,20,436,121,0,Kansas City Chiefs
+6,2021-10-17,13:00:00,0,0,Washington Football Team,31,13,29,499,109,3,15,276,94,2,Kansas City Chiefs
+7,2021-10-24,13:00:00,0,0,Tennessee Titans,3,27,22,334,77,3,24,369,103,1,Kansas City Chiefs
+8,2021-11-01,20:15:00,0,1,New York Giants,20,17,29,368,107,2,18,300,72,1,Kansas City Chiefs
+9,2021-11-07,16:25:00,0,1,Green Bay Packers,13,7,14,237,77,0,19,301,122,2,Kansas City Chiefs
+10,2021-11-14,20:20:00,0,0,Las Vegas Raiders,41,14,29,516,94,1,15,299,50,2,Kansas City Chiefs
+11,2021-11-21,16:25:00,0,1,Dallas Cowboys,19,9,22,370,126,2,16,276,82,3,Kansas City Chiefs
+13,2021-12-05,20:20:00,0,1,Denver Broncos,22,9,15,267,89,1,22,404,154,3,Kansas City Chiefs
+14,2021-12-12,13:00:00,0,1,Las Vegas Raiders,48,9,21,372,132,0,19,290,44,5,Kansas City Chiefs
+15,2021-12-16,20:20:00,1,0,Los Angeles Chargers,34,28,26,496,86,2,28,428,192,2,Kansas City Chiefs
+16,2021-12-26,16:25:00,0,1,Pittsburgh Steelers,36,10,25,381,127,0,20,303,130,3,Kansas City Chiefs
+17,2022-01-02,13:00:00,0,0,Cincinnati Bengals,31,34,23,414,155,0,23,475,60,0,Kansas City Chiefs
+18,2022-01-08,16:30:00,0,0,Denver Broncos,28,24,28,390,135,0,18,364,191,1,Kansas City Chiefs
+19,2022-01-16,20:15:00,0,1,Pittsburgh Steelers,42,21,26,478,106,2,19,257,56,1,Kansas City Chiefs
+20,2022-01-23,18:30:00,1,1,Buffalo Bills,42,36,30,552,182,0,23,422,109,0,Kansas City Chiefs
+21,2022-01-30,15:00:00,1,1,Cincinnati Bengals,24,27,24,375,139,2,21,359,116,1,Kansas City Chiefs
+1,2021-09-13,20:15:00,1,1,Baltimore Ravens,33,27,26,491,82,1,20,406,189,2,Las Vegas Raiders
+2,2021-09-19,13:00:00,0,0,Pittsburgh Steelers,26,17,22,425,52,0,17,331,39,1,Las Vegas Raiders
+3,2021-09-26,16:05:00,1,1,Miami Dolphins,31,28,28,497,140,1,22,330,133,0,Las Vegas Raiders
+4,2021-10-04,20:15:00,0,0,Los Angeles Chargers,14,28,13,213,48,1,25,380,168,0,Las Vegas Raiders
+5,2021-10-10,16:05:00,0,1,Chicago Bears,9,20,16,259,71,1,19,252,143,0,Las Vegas Raiders
+6,2021-10-17,16:25:00,0,0,Denver Broncos,34,24,16,426,86,0,25,421,112,4,Las Vegas Raiders
+7,2021-10-24,16:05:00,0,1,Philadelphia Eagles,33,22,23,442,119,1,22,358,135,2,Las Vegas Raiders
+9,2021-11-07,13:00:00,0,0,New York Giants,16,23,24,403,117,3,16,247,149,1,Las Vegas Raiders
+10,2021-11-14,20:20:00,0,1,Kansas City Chiefs,14,41,15,299,50,2,29,516,94,1,Las Vegas Raiders
+11,2021-11-21,16:05:00,0,1,Cincinnati Bengals,13,32,13,278,72,2,23,288,159,1,Las Vegas Raiders
+12,2021-11-25,16:30:00,1,0,Dallas Cowboys,36,33,28,509,143,0,23,437,64,0,Las Vegas Raiders
+13,2021-12-05,16:05:00,0,1,Washington Football Team,15,17,22,310,76,0,23,298,112,1,Las Vegas Raiders
+14,2021-12-12,13:00:00,0,0,Kansas City Chiefs,9,48,19,290,44,5,21,372,132,0,Las Vegas Raiders
+15,2021-12-20,17:00:00,0,0,Cleveland Browns,16,14,20,328,98,2,13,236,89,0,Las Vegas Raiders
+16,2021-12-26,16:25:00,0,1,Denver Broncos,17,13,22,342,160,3,8,158,18,0,Las Vegas Raiders
+17,2022-01-02,13:00:00,0,0,Indianapolis Colts,23,20,18,326,85,2,16,262,122,0,Las Vegas Raiders
+18,2022-01-09,20:25:00,1,1,Los Angeles Chargers,35,32,24,346,174,0,27,440,85,2,Las Vegas Raiders
+19,2022-01-15,16:30:00,0,0,Cincinnati Bengals,19,26,23,385,103,2,18,308,83,0,Las Vegas Raiders
+1,2021-09-12,13:00:00,0,0,Washington Football Team,20,16,27,424,90,2,15,259,126,1,Los Angeles Chargers
+2,2021-09-19,16:25:00,0,1,Dallas Cowboys,17,20,24,408,95,2,25,419,198,1,Los Angeles Chargers
+3,2021-09-26,13:00:00,0,0,Kansas City Chiefs,30,24,21,352,77,0,33,437,186,4,Los Angeles Chargers
+4,2021-10-04,20:15:00,0,1,Las Vegas Raiders,28,14,25,380,168,0,13,213,48,1,Los Angeles Chargers
+5,2021-10-10,16:05:00,0,1,Cleveland Browns,47,42,27,493,112,1,25,531,230,0,Los Angeles Chargers
+6,2021-10-17,13:00:00,0,0,Baltimore Ravens,6,34,14,208,26,1,27,327,187,2,Los Angeles Chargers
+8,2021-10-31,16:05:00,0,1,New England Patriots,24,27,17,369,163,2,21,352,142,1,Los Angeles Chargers
+9,2021-11-07,16:05:00,0,0,Philadelphia Eagles,27,24,28,445,89,0,20,331,176,0,Los Angeles Chargers
+10,2021-11-14,16:05:00,0,1,Minnesota Vikings,20,27,20,253,82,1,24,381,103,1,Los Angeles Chargers
+11,2021-11-21,20:20:00,0,1,Pittsburgh Steelers,41,37,33,533,159,1,22,300,55,0,Los Angeles Chargers
+12,2021-11-28,16:05:00,0,0,Denver Broncos,13,28,20,357,72,2,23,302,147,1,Los Angeles Chargers
+13,2021-12-05,13:00:00,0,0,Cincinnati Bengals,41,22,18,363,79,3,21,356,96,4,Los Angeles Chargers
+14,2021-12-12,16:05:00,0,1,New York Giants,37,21,26,423,152,0,20,316,135,2,Los Angeles Chargers
+15,2021-12-16,20:20:00,1,1,Kansas City Chiefs,28,34,28,428,192,2,26,496,86,2,Los Angeles Chargers
+16,2021-12-26,13:00:00,0,0,Houston Texans,29,41,25,417,89,3,26,437,189,0,Los Angeles Chargers
+17,2022-01-02,16:05:00,0,1,Denver Broncos,34,13,21,341,104,0,18,319,83,1,Los Angeles Chargers
+18,2022-01-09,20:25:00,1,0,Las Vegas Raiders,32,35,27,440,85,2,24,346,174,0,Los Angeles Chargers
+1,2021-09-12,16:25:00,0,0,New York Giants,27,13,24,420,165,1,19,314,60,1,Denver Broncos
+2,2021-09-19,13:00:00,0,0,Jacksonville Jaguars,23,13,22,398,96,0,12,189,75,2,Denver Broncos
+3,2021-09-26,16:05:00,0,1,New York Jets,26,0,23,343,120,1,11,162,43,2,Denver Broncos
+4,2021-10-03,16:25:00,0,1,Baltimore Ravens,7,23,15,254,106,1,20,406,102,0,Denver Broncos
+5,2021-10-10,13:00:00,0,0,Pittsburgh Steelers,19,27,17,374,106,1,19,391,147,1,Denver Broncos
+6,2021-10-17,16:25:00,0,1,Las Vegas Raiders,24,34,25,421,112,4,16,426,86,0,Denver Broncos
+7,2021-10-21,20:20:00,0,0,Cleveland Browns,14,17,15,223,41,1,23,376,182,0,Denver Broncos
+8,2021-10-31,16:25:00,0,1,Washington Football Team,17,10,17,273,83,1,21,342,112,2,Denver Broncos
+9,2021-11-07,13:00:00,0,0,Dallas Cowboys,30,16,23,407,190,0,14,290,78,2,Denver Broncos
+10,2021-11-14,16:25:00,0,1,Philadelphia Eagles,13,30,17,308,96,1,22,386,216,1,Denver Broncos
+12,2021-11-28,16:05:00,0,1,Los Angeles Chargers,28,13,23,302,147,1,20,357,72,2,Denver Broncos
+13,2021-12-05,20:20:00,0,0,Kansas City Chiefs,9,22,22,404,154,3,15,267,89,1,Denver Broncos
+14,2021-12-12,16:05:00,0,1,Detroit Lions,38,10,25,358,184,0,17,316,118,2,Denver Broncos
+15,2021-12-19,16:05:00,0,1,Cincinnati Bengals,10,15,19,292,133,1,12,249,113,0,Denver Broncos
+16,2021-12-26,16:25:00,0,0,Las Vegas Raiders,13,17,8,158,18,0,22,342,160,3,Denver Broncos
+17,2022-01-02,16:05:00,0,0,Los Angeles Chargers,13,34,18,319,83,1,21,341,104,0,Denver Broncos
+18,2022-01-08,16:30:00,0,1,Kansas City Chiefs,24,28,18,364,191,1,28,390,135,0,Denver Broncos
+1,2021-09-09,20:20:00,0,0,Tampa Bay Buccaneers,29,31,30,451,60,1,24,431,52,4,Dallas Cowboys
+2,2021-09-19,16:25:00,0,0,Los Angeles Chargers,20,17,25,419,198,1,24,408,95,2,Dallas Cowboys
+3,2021-09-27,20:15:00,0,1,Philadelphia Eagles,41,21,27,380,160,1,12,367,64,2,Dallas Cowboys
+4,2021-10-03,13:00:00,0,1,Carolina Panthers,36,28,24,433,245,0,24,379,113,2,Dallas Cowboys
+5,2021-10-10,16:25:00,0,1,New York Giants,44,20,26,515,201,2,20,367,73,2,Dallas Cowboys
+6,2021-10-17,16:25:00,1,0,New England Patriots,35,29,32,567,122,2,17,335,120,2,Dallas Cowboys
+8,2021-10-31,20:20:00,0,0,Minnesota Vikings,20,16,23,419,78,2,17,278,101,0,Dallas Cowboys
+9,2021-11-07,13:00:00,0,1,Denver Broncos,16,30,14,290,78,2,23,407,190,0,Dallas Cowboys
+10,2021-11-14,13:00:00,0,1,Atlanta Falcons,43,3,22,431,114,1,11,214,103,3,Dallas Cowboys
+11,2021-11-21,16:25:00,0,0,Kansas City Chiefs,9,19,16,276,82,3,22,370,126,2,Dallas Cowboys
+12,2021-11-25,16:30:00,1,1,Las Vegas Raiders,33,36,23,437,64,0,28,509,143,0,Dallas Cowboys
+13,2021-12-02,20:20:00,0,0,New Orleans Saints,27,17,17,377,146,1,17,405,153,4,Dallas Cowboys
+14,2021-12-12,13:00:00,0,0,Washington Football Team,27,20,19,323,122,2,14,224,100,4,Dallas Cowboys
+15,2021-12-19,13:00:00,0,0,New York Giants,21,6,23,328,125,1,15,302,124,4,Dallas Cowboys
+16,2021-12-26,20:20:00,0,1,Washington Football Team,56,14,28,497,108,0,14,257,85,2,Dallas Cowboys
+17,2022-01-02,13:00:00,0,1,Arizona Cardinals,22,25,19,301,45,1,23,399,127,0,Dallas Cowboys
+18,2022-01-08,20:15:00,0,0,Philadelphia Eagles,51,26,22,475,171,0,22,315,149,1,Dallas Cowboys
+19,2022-01-16,16:40:00,0,1,San Francisco 49ers,17,23,20,307,77,1,21,341,169,1,Dallas Cowboys
+1,2021-09-12,13:00:00,0,0,Atlanta Falcons,32,6,24,434,173,0,19,260,124,0,Philadelphia Eagles
+2,2021-09-19,13:00:00,0,1,San Francisco 49ers,11,17,18,328,151,0,23,306,117,0,Philadelphia Eagles
+3,2021-09-27,20:15:00,0,0,Dallas Cowboys,21,41,12,367,64,2,27,380,160,1,Philadelphia Eagles
+4,2021-10-03,13:00:00,0,1,Kansas City Chiefs,30,42,30,461,103,0,31,471,200,1,Philadelphia Eagles
+5,2021-10-10,13:00:00,0,0,Carolina Panthers,21,18,15,273,91,2,17,267,109,3,Philadelphia Eagles
+6,2021-10-14,20:20:00,0,1,Tampa Bay Buccaneers,22,28,16,213,100,1,27,399,102,1,Philadelphia Eagles
+7,2021-10-24,16:05:00,0,0,Las Vegas Raiders,22,33,22,358,135,2,23,442,119,1,Philadelphia Eagles
+8,2021-10-31,13:00:00,0,0,Detroit Lions,44,6,27,350,236,0,15,228,57,1,Philadelphia Eagles
+9,2021-11-07,16:05:00,0,1,Los Angeles Chargers,24,27,20,331,176,0,28,445,89,0,Philadelphia Eagles
+10,2021-11-14,16:25:00,0,0,Denver Broncos,30,13,22,386,216,1,17,308,96,1,Philadelphia Eagles
+11,2021-11-21,13:00:00,0,1,New Orleans Saints,40,29,21,380,242,1,18,323,109,3,Philadelphia Eagles
+12,2021-11-28,13:00:00,0,0,New York Giants,7,13,19,332,208,4,17,264,70,0,Philadelphia Eagles
+13,2021-12-05,13:00:00,0,0,New York Jets,33,18,26,418,185,0,21,281,70,1,Philadelphia Eagles
+15,2021-12-21,19:00:00,0,1,Washington Football Team,27,17,23,519,238,2,14,237,63,0,Philadelphia Eagles
+16,2021-12-26,13:00:00,0,1,New York Giants,34,10,17,324,130,0,15,192,84,2,Philadelphia Eagles
+17,2022-01-02,13:00:00,0,0,Washington Football Team,20,16,18,330,118,0,24,312,94,1,Philadelphia Eagles
+18,2022-01-08,20:15:00,0,1,Dallas Cowboys,26,51,22,315,149,1,22,475,171,0,Philadelphia Eagles
+19,2022-01-16,13:00:00,0,0,Tampa Bay Buccaneers,15,31,14,339,95,3,23,349,106,0,Philadelphia Eagles
+1,2021-09-12,13:00:00,0,1,Los Angeles Chargers,16,20,15,259,126,1,27,424,90,2,Washington Football Team
+2,2021-09-16,20:20:00,0,1,New York Giants,30,29,25,407,87,1,21,391,163,0,Washington Football Team
+3,2021-09-26,13:00:00,0,0,Buffalo Bills,21,43,13,290,78,3,29,481,122,0,Washington Football Team
+4,2021-10-03,13:00:00,0,0,Atlanta Falcons,34,30,26,412,122,0,24,374,99,0,Washington Football Team
+5,2021-10-10,13:00:00,0,1,New Orleans Saints,22,33,26,373,131,2,18,369,98,2,Washington Football Team
+6,2021-10-17,13:00:00,0,1,Kansas City Chiefs,13,31,15,276,94,2,29,499,109,3,Washington Football Team
+7,2021-10-24,13:00:00,0,0,Green Bay Packers,10,24,25,430,195,2,19,304,57,1,Washington Football Team
+8,2021-10-31,16:25:00,0,0,Denver Broncos,10,17,21,342,112,2,17,273,83,1,Washington Football Team
+10,2021-11-14,13:00:00,0,1,Tampa Bay Buccaneers,29,19,23,320,94,1,14,273,53,2,Washington Football Team
+11,2021-11-21,13:00:00,0,0,Carolina Panthers,27,21,24,369,190,1,18,297,111,0,Washington Football Team
+12,2021-11-29,20:15:00,0,1,Seattle Seahawks,17,15,27,371,152,1,10,267,34,1,Washington Football Team
+13,2021-12-05,16:05:00,0,0,Las Vegas Raiders,17,15,23,298,112,1,22,310,76,0,Washington Football Team
+14,2021-12-12,13:00:00,0,1,Dallas Cowboys,20,27,14,224,100,4,19,323,122,2,Washington Football Team
+15,2021-12-21,19:00:00,0,0,Philadelphia Eagles,17,27,14,237,63,0,23,519,238,2,Washington Football Team
+16,2021-12-26,20:20:00,0,0,Dallas Cowboys,14,56,14,257,85,2,28,497,108,0,Washington Football Team
+17,2022-01-02,13:00:00,0,1,Philadelphia Eagles,16,20,24,312,94,1,18,330,118,0,Washington Football Team
+18,2022-01-09,13:00:00,0,0,New York Giants,22,7,16,325,226,0,10,177,94,3,Washington Football Team
+1,2021-09-12,16:25:00,0,1,Denver Broncos,13,27,19,314,60,1,24,420,165,1,New York Giants
+2,2021-09-16,20:20:00,0,0,Washington Football Team,29,30,21,391,163,0,25,407,87,1,New York Giants
+3,2021-09-26,13:00:00,0,1,Atlanta Falcons,14,17,21,346,100,1,18,296,69,1,New York Giants
+4,2021-10-03,13:00:00,1,0,New Orleans Saints,27,21,21,485,83,1,21,405,170,1,New York Giants
+5,2021-10-10,16:25:00,0,0,Dallas Cowboys,20,44,20,367,73,2,26,515,201,2,New York Giants
+6,2021-10-17,13:00:00,0,1,Los Angeles Rams,11,38,21,261,60,4,22,365,131,2,New York Giants
+7,2021-10-24,13:00:00,0,1,Carolina Panthers,25,3,21,302,103,0,11,173,56,1,New York Giants
+8,2021-11-01,20:15:00,0,0,Kansas City Chiefs,17,20,18,300,72,1,29,368,107,2,New York Giants
+9,2021-11-07,13:00:00,0,1,Las Vegas Raiders,23,16,16,247,149,1,24,403,117,3,New York Giants
+11,2021-11-22,20:15:00,0,0,Tampa Bay Buccaneers,10,30,15,215,66,3,28,402,94,1,New York Giants
+12,2021-11-28,13:00:00,0,1,Philadelphia Eagles,13,7,17,264,70,0,19,332,208,4,New York Giants
+13,2021-12-05,13:00:00,0,0,Miami Dolphins,9,20,16,250,91,1,19,297,68,0,New York Giants
+14,2021-12-12,16:05:00,0,0,Los Angeles Chargers,21,37,20,316,135,2,26,423,152,0,New York Giants
+15,2021-12-19,13:00:00,0,1,Dallas Cowboys,6,21,15,302,124,4,23,328,125,1,New York Giants
+16,2021-12-26,13:00:00,0,0,Philadelphia Eagles,10,34,15,192,84,2,17,324,130,0,New York Giants
+17,2022-01-02,13:00:00,0,0,Chicago Bears,3,29,13,155,161,4,17,249,87,2,New York Giants
+18,2022-01-09,13:00:00,0,1,Washington Football Team,7,22,10,177,94,3,16,325,226,0,New York Giants
+1,2021-09-09,20:20:00,0,1,Dallas Cowboys,31,29,24,431,52,4,30,451,60,1,Tampa Bay Buccaneers
+2,2021-09-19,16:05:00,0,1,Atlanta Falcons,48,25,21,341,82,1,19,348,55,3,Tampa Bay Buccaneers
+3,2021-09-26,16:25:00,0,0,Los Angeles Rams,24,34,27,446,35,0,22,407,76,0,Tampa Bay Buccaneers
+4,2021-10-03,20:20:00,0,0,New England Patriots,19,17,22,381,120,0,20,294,-1,2,Tampa Bay Buccaneers
+5,2021-10-10,13:00:00,0,1,Miami Dolphins,45,17,33,558,121,0,17,301,39,2,Tampa Bay Buccaneers
+6,2021-10-14,20:20:00,0,0,Philadelphia Eagles,28,22,27,399,102,1,16,213,100,1,Tampa Bay Buccaneers
+7,2021-10-24,16:25:00,0,1,Chicago Bears,38,3,28,408,182,1,17,311,143,5,Tampa Bay Buccaneers
+8,2021-10-31,16:25:00,0,0,New Orleans Saints,27,36,16,421,71,3,26,361,152,0,Tampa Bay Buccaneers
+10,2021-11-14,13:00:00,0,0,Washington Football Team,19,29,14,273,53,2,23,320,94,1,Tampa Bay Buccaneers
+11,2021-11-22,20:15:00,0,1,New York Giants,30,10,28,402,94,1,15,215,66,3,Tampa Bay Buccaneers
+12,2021-11-28,13:00:00,0,0,Indianapolis Colts,38,31,28,359,142,2,24,392,107,5,Tampa Bay Buccaneers
+13,2021-12-05,13:00:00,0,0,Atlanta Falcons,30,17,25,425,57,1,21,380,121,1,Tampa Bay Buccaneers
+14,2021-12-12,16:25:00,1,1,Buffalo Bills,33,27,26,488,137,0,27,466,173,1,Tampa Bay Buccaneers
+15,2021-12-19,20:20:00,0,1,New Orleans Saints,0,9,17,302,118,2,11,212,61,0,Tampa Bay Buccaneers
+16,2021-12-26,13:00:00,0,0,Carolina Panthers,32,6,21,391,159,0,16,273,67,1,Tampa Bay Buccaneers
+17,2022-01-02,13:00:00,0,0,New York Jets,28,24,26,467,62,1,22,374,150,1,Tampa Bay Buccaneers
+18,2022-01-09,13:00:00,0,1,Carolina Panthers,41,17,21,409,85,0,18,317,110,2,Tampa Bay Buccaneers
+19,2022-01-16,13:00:00,0,1,Philadelphia Eagles,31,15,23,349,106,0,14,339,95,3,Tampa Bay Buccaneers
+20,2022-01-23,15:00:00,0,1,Los Angeles Rams,27,30,20,359,51,2,24,428,73,4,Tampa Bay Buccaneers
+1,2021-09-12,16:25:00,0,1,Green Bay Packers,38,3,22,322,171,0,14,229,43,3,New Orleans Saints
+2,2021-09-19,13:00:00,0,0,Carolina Panthers,7,26,6,128,48,2,28,383,89,1,New Orleans Saints
+3,2021-09-26,13:00:00,0,0,New England Patriots,28,13,19,252,142,0,16,300,49,3,New Orleans Saints
+4,2021-10-03,13:00:00,1,1,New York Giants,21,27,21,405,170,1,21,485,83,1,New Orleans Saints
+5,2021-10-10,13:00:00,0,0,Washington Football Team,33,22,18,369,98,2,26,373,131,2,New Orleans Saints
+7,2021-10-25,20:15:00,0,0,Seattle Seahawks,13,10,21,304,94,1,14,219,90,0,New Orleans Saints
+8,2021-10-31,16:25:00,0,1,Tampa Bay Buccaneers,36,27,26,361,152,0,16,421,71,3,New Orleans Saints
+9,2021-11-07,13:00:00,0,1,Atlanta Falcons,25,27,26,376,109,1,18,366,34,0,New Orleans Saints
+10,2021-11-14,13:00:00,0,0,Tennessee Titans,21,23,22,373,86,1,17,264,66,0,New Orleans Saints
+11,2021-11-21,13:00:00,0,0,Philadelphia Eagles,29,40,18,323,109,3,21,380,242,1,New Orleans Saints
+12,2021-11-25,20:20:00,0,1,Buffalo Bills,6,31,12,190,44,1,21,361,113,2,New Orleans Saints
+13,2021-12-02,20:20:00,0,1,Dallas Cowboys,17,27,17,405,153,4,17,377,146,1,New Orleans Saints
+14,2021-12-12,13:00:00,0,0,New York Jets,30,9,21,344,203,0,13,256,78,0,New Orleans Saints
+15,2021-12-19,20:20:00,0,0,Tampa Bay Buccaneers,9,0,11,212,61,0,17,302,118,2,New Orleans Saints
+16,2021-12-27,20:15:00,0,1,Miami Dolphins,3,20,10,164,83,2,16,259,86,1,New Orleans Saints
+17,2022-01-02,13:00:00,0,1,Carolina Panthers,18,10,15,280,73,0,16,178,88,2,New Orleans Saints
+18,2022-01-09,13:00:00,0,0,Atlanta Falcons,30,20,22,369,195,0,13,257,62,3,New Orleans Saints
+1,2021-09-12,13:00:00,0,1,Philadelphia Eagles,6,32,19,260,124,0,24,434,173,0,Atlanta Falcons
+2,2021-09-19,16:05:00,0,0,Tampa Bay Buccaneers,25,48,19,348,55,3,21,341,82,1,Atlanta Falcons
+3,2021-09-26,13:00:00,0,0,New York Giants,17,14,18,296,69,1,21,346,100,1,Atlanta Falcons
+4,2021-10-03,13:00:00,0,1,Washington Football Team,30,34,24,374,99,0,26,412,122,0,Atlanta Falcons
+5,2021-10-10,09:30:00,0,1,New York Jets,27,20,28,450,108,2,17,230,64,1,Atlanta Falcons
+7,2021-10-24,13:00:00,0,0,Miami Dolphins,30,28,21,397,72,2,27,413,132,2,Atlanta Falcons
+8,2021-10-31,13:00:00,0,1,Carolina Panthers,13,19,17,213,82,2,21,332,203,1,Atlanta Falcons
+9,2022-11-07,13:00:00,0,0,New Orleans Saints,27,25,18,366,34,0,26,376,109,1,Atlanta Falcons
+10,2021-11-14,13:00:00,0,0,Dallas Cowboys,3,43,11,214,103,3,22,431,114,1,Atlanta Falcons
+11,2021-11-18,20:20:00,0,1,New England Patriots,0,25,11,165,40,4,20,308,134,1,Atlanta Falcons
+12,2021-11-28,13:00:00,0,0,Jacksonville Jaguars,21,14,21,332,149,1,20,357,141,2,Atlanta Falcons
+13,2021-12-05,13:00:00,0,1,Tampa Bay Buccaneers,17,30,21,380,121,1,25,425,57,1,Atlanta Falcons
+14,2021-12-12,13:00:00,0,0,Carolina Panthers,29,21,20,318,128,1,21,334,91,3,Atlanta Falcons
+15,2021-12-19,16:05:00,0,0,San Francisco 49ers,13,31,13,275,62,1,23,397,162,1,Atlanta Falcons
+16,2021-12-26,13:00:00,0,1,Detroit Lions,20,16,14,254,47,1,19,338,130,1,Atlanta Falcons
+17,2022-01-02,13:00:00,0,0,Buffalo Bills,15,29,18,265,96,1,28,351,233,3,Atlanta Falcons
+18,2022-01-09,13:00:00,0,1,New Orleans Saints,20,30,13,257,62,3,22,369,195,0,Atlanta Falcons
+1,2021-09-12,13:00:00,0,1,New York Jets,19,14,18,381,111,1,16,252,45,1,Carolina Panthers
+2,2021-09-19,13:00:00,0,1,New Orleans Saints,26,7,28,383,89,1,6,128,48,2,Carolina Panthers
+3,2021-09-23,20:20:00,0,0,Houston Texans,24,9,28,407,117,0,14,193,42,0,Carolina Panthers
+4,2021-10-03,13:00:00,0,0,Dallas Cowboys,28,36,24,379,113,2,24,433,245,0,Carolina Panthers
+5,2021-10-10,13:00:00,0,1,Philadelphia Eagles,18,21,17,267,109,3,15,273,91,2,Carolina Panthers
+6,2021-10-17,13:00:00,1,1,Minnesota Vikings,28,34,20,306,118,3,26,571,198,1,Carolina Panthers
+7,2021-10-24,13:00:00,0,0,New York Giants,3,25,11,173,56,1,21,302,103,0,Carolina Panthers
+8,2021-10-31,13:00:00,0,0,Atlanta Falcons,19,13,21,332,203,1,17,213,82,2,Carolina Panthers
+9,2021-11-07,13:00:00,0,1,New England Patriots,6,24,13,240,78,3,17,273,151,2,Carolina Panthers
+10,2021-11-14,16:05:00,0,0,Arizona Cardinals,34,10,24,341,166,2,11,169,65,2,Carolina Panthers
+11,2021-11-21,13:00:00,0,1,Washington Football Team,21,27,18,297,111,0,24,369,190,1,Carolina Panthers
+12,2021-11-28,13:00:00,0,0,Miami Dolphins,10,33,10,198,64,3,22,315,111,1,Carolina Panthers
+14,2021-12-12,13:00:00,0,1,Atlanta Falcons,21,29,21,334,91,3,20,318,128,1,Carolina Panthers
+15,2021-12-19,13:00:00,0,0,Buffalo Bills,14,31,19,275,151,1,21,312,119,1,Carolina Panthers
+16,2021-12-26,13:00:00,0,1,Tampa Bay Buccaneers,6,32,16,273,67,1,21,391,159,0,Carolina Panthers
+17,2022-01-02,13:00:00,0,0,New Orleans Saints,10,18,16,178,88,2,15,280,73,0,Carolina Panthers
+18,2022-01-09,13:00:00,0,0,Tampa Bay Buccaneers,17,41,18,317,110,2,21,409,85,0,Carolina Panthers
+1,2021-09-12,16:25:00,0,0,New Orleans Saints,3,38,14,229,43,3,22,322,171,0,Green Bay Packers
+2,2021-09-20,20:15:00,0,1,Detroit Lions,35,17,25,323,96,0,19,344,108,2,Green Bay Packers
+3,2021-09-26,20:20:00,0,0,San Francisco 49ers,30,28,21,353,100,0,26,298,67,2,Green Bay Packers
+4,2021-10-03,16:25:00,0,1,Pittsburgh Steelers,27,17,23,367,131,1,17,282,62,2,Green Bay Packers
+5,2021-10-10,13:00:00,1,0,Cincinnati Bengals,25,22,21,466,133,1,18,367,103,2,Green Bay Packers
+6,2021-10-17,13:00:00,0,0,Chicago Bears,24,14,22,323,154,0,21,277,140,1,Green Bay Packers
+7,2021-10-24,13:00:00,0,1,Washington Football Team,24,10,19,304,57,1,25,430,195,2,Green Bay Packers
+8,2021-10-28,20:20:00,0,0,Arizona Cardinals,24,21,24,335,151,0,22,334,74,3,Green Bay Packers
+9,2021-11-07,16:25:00,0,0,Kansas City Chiefs,7,13,19,301,122,2,14,237,77,0,Green Bay Packers
+10,2021-11-14,16:25:00,0,1,Seattle Seahawks,17,0,22,393,106,1,15,208,75,2,Green Bay Packers
+11,2021-11-21,13:00:00,0,0,Minnesota Vikings,31,34,21,467,95,0,25,408,90,0,Green Bay Packers
+12,2021-11-28,16:25:00,0,1,Los Angeles Rams,36,28,21,399,92,1,15,353,68,3,Green Bay Packers
+14,2021-12-12,20:20:00,0,1,Chicago Bears,45,30,27,439,119,0,16,347,137,3,Green Bay Packers
+15,2021-12-19,13:00:00,0,0,Baltimore Ravens,31,30,26,346,96,0,24,354,143,0,Green Bay Packers
+16,2021-12-25,16:30:00,0,1,Cleveland Browns,24,22,19,311,109,0,28,408,219,4,Green Bay Packers
+17,2022-01-02,20:20:00,0,1,Minnesota Vikings,37,10,29,481,174,0,11,206,27,0,Green Bay Packers
+18,2022-01-09,13:00:00,0,0,Detroit Lions,30,37,22,378,122,3,19,404,99,0,Green Bay Packers
+20,2022-01-22,20:15:00,0,1,San Francisco 49ers,10,13,14,263,67,1,12,212,106,1,Green Bay Packers
+1,2021-09-12,13:00:00,1,0,Cincinnati Bengals,24,27,24,403,67,1,20,366,149,0,Minnesota Vikings
+2,2021-09-19,16:05:00,0,0,Arizona Cardinals,33,34,22,419,177,0,21,474,103,2,Minnesota Vikings
+3,2021-09-26,16:25:00,0,1,Seattle Seahawks,30,17,28,453,140,0,21,389,106,0,Minnesota Vikings
+4,2021-10-03,13:00:00,0,1,Cleveland Browns,7,14,16,255,65,1,20,327,184,0,Minnesota Vikings
+5,2021-10-10,13:00:00,0,1,Detroit Lions,19,17,18,384,120,2,22,288,108,2,Minnesota Vikings
+6,2021-10-17,13:00:00,1,0,Carolina Panthers,34,28,26,571,198,1,20,306,118,3,Minnesota Vikings
+8,2021-10-31,20:20:00,0,1,Dallas Cowboys,16,20,17,278,101,0,23,419,78,2,Minnesota Vikings
+9,2021-11-07,13:00:00,1,0,Baltimore Ravens,31,34,13,318,131,0,36,500,247,2,Minnesota Vikings
+10,2021-11-14,16:05:00,0,0,Los Angeles Chargers,27,20,24,381,103,1,20,253,82,1,Minnesota Vikings
+11,2021-11-21,13:00:00,0,1,Green Bay Packers,34,31,25,408,90,0,21,467,95,0,Minnesota Vikings
+12,2021-11-28,16:25:00,0,0,San Francisco 49ers,26,34,17,323,67,2,23,423,208,1,Minnesota Vikings
+13,2021-12-05,13:00:00,0,0,Detroit Lions,27,29,26,426,100,1,23,372,100,2,Minnesota Vikings
+14,2021-12-09,20:20:00,0,1,Pittsburgh Steelers,36,28,22,458,242,2,22,375,106,1,Minnesota Vikings
+15,2021-12-20,20:15:00,0,0,Chicago Bears,17,9,13,193,132,1,24,370,115,3,Minnesota Vikings
+16,2021-12-26,13:00:00,0,1,Los Angeles Rams,23,30,19,361,66,1,22,356,159,3,Minnesota Vikings
+17,2022-01-02,20:20:00,0,0,Green Bay Packers,10,37,11,206,27,0,29,481,174,0,Minnesota Vikings
+18,2022-01-09,13:00:00,0,1,Chicago Bears,31,17,11,331,104,0,24,356,90,2,Minnesota Vikings
+1,2021-09-12,20:20:00,0,0,Los Angeles Rams,14,34,24,322,134,2,18,386,74,0,Chicago Bears
+2,2021-09-19,13:00:00,0,1,Cincinnati Bengals,20,17,16,206,123,1,14,248,69,4,Chicago Bears
+3,2021-09-26,13:00:00,0,0,Cleveland Browns,6,26,6,47,46,0,26,418,215,0,Chicago Bears
+4,2021-10-03,13:00:00,0,1,Detroit Lions,24,14,20,373,188,1,23,351,90,2,Chicago Bears
+5,2021-10-10,16:05:00,0,0,Las Vegas Raiders,20,9,19,252,143,0,16,259,71,1,Chicago Bears
+6,2021-10-17,13:00:00,0,1,Green Bay Packers,14,24,21,277,140,1,22,323,154,0,Chicago Bears
+7,2021-10-24,16:25:00,0,0,Tampa Bay Buccaneers,3,38,17,311,143,5,28,408,182,1,Chicago Bears
+8,2021-10-31,13:00:00,0,1,San Francisco 49ers,22,33,22,324,176,1,21,467,145,0,Chicago Bears
+9,2021-11-08,20:15:00,0,0,Pittsburgh Steelers,27,29,20,414,136,2,20,280,105,1,Chicago Bears
+11,2021-11-21,13:00:00,0,1,Baltimore Ravens,13,16,14,353,92,1,23,299,123,1,Chicago Bears
+12,2021-11-25,12:30:00,0,0,Detroit Lions,16,14,21,378,68,1,14,239,76,1,Chicago Bears
+13,2021-12-05,13:00:00,0,1,Arizona Cardinals,22,33,26,329,112,4,14,257,137,0,Chicago Bears
+14,2021-12-12,20:20:00,0,0,Green Bay Packers,30,45,16,347,137,3,27,439,119,0,Chicago Bears
+15,2021-12-20,20:15:00,0,1,Minnesota Vikings,9,17,24,370,115,3,13,193,132,1,Chicago Bears
+16,2021-12-26,16:05:00,0,0,Seattle Seahawks,25,24,26,317,88,0,18,331,170,0,Chicago Bears
+17,2022-01-02,13:00:00,0,1,New York Giants,29,3,17,249,87,2,13,155,161,4,Chicago Bears
+18,2022-01-09,13:00:00,0,0,Minnesota Vikings,17,31,24,356,90,2,11,331,104,0,Chicago Bears
+1,2021-09-12,13:00:00,0,1,San Francisco 49ers,33,41,31,430,116,1,21,442,131,2,Detroit Lions
+2,2021-09-20,20:15:00,0,0,Green Bay Packers,17,35,19,344,108,2,25,323,96,0,Detroit Lions
+3,2021-09-26,13:00:00,0,1,Baltimore Ravens,17,19,22,285,93,0,15,387,116,1,Detroit Lions
+4,2021-10-03,13:00:00,0,0,Chicago Bears,14,24,23,351,90,2,20,373,188,1,Detroit Lions
+5,2021-10-10,13:00:00,0,0,Minnesota Vikings,17,19,22,288,108,2,18,384,120,2,Detroit Lions
+6,2021-10-17,13:00:00,0,1,Cincinnati Bengals,11,34,15,228,36,1,20,398,142,1,Detroit Lions
+7,2021-10-24,16:05:00,0,0,Los Angeles Rams,19,28,19,415,137,2,22,374,47,0,Detroit Lions
+8,2021-10-31,13:00:00,0,1,Philadelphia Eagles,6,44,15,228,57,1,27,350,236,0,Detroit Lions
+10,2021-11-14,13:00:00,1,0,Pittsburgh Steelers,16,16,17,306,229,0,22,387,145,3,Detroit Lions
+11,2021-11-21,13:00:00,0,0,Cleveland Browns,10,13,12,245,168,2,22,349,184,2,Detroit Lions
+12,2021-11-25,12:30:00,0,1,Chicago Bears,14,16,14,239,76,1,21,378,68,1,Detroit Lions
+13,2021-12-05,13:00:00,0,1,Minnesota Vikings,29,27,23,372,100,2,26,426,100,1,Detroit Lions
+14,2021-12-12,16:05:00,0,0,Denver Broncos,10,38,17,316,118,2,25,358,184,0,Detroit Lions
+15,2021-12-19,13:00:00,0,1,Arizona Cardinals,30,12,22,338,126,1,23,398,105,1,Detroit Lions
+16,2021-12-26,13:00:00,0,0,Atlanta Falcons,16,20,19,338,130,1,14,254,47,1,Detroit Lions
+17,2022-01-02,16:25:00,0,0,Seattle Seahawks,29,51,20,357,95,3,29,497,265,0,Detroit Lions
+18,2022-01-09,13:00:00,0,1,Green Bay Packers,37,30,19,404,99,0,22,378,122,3,Detroit Lions
+1,2021-09-12,20:20:00,0,1,Chicago Bears,34,14,18,386,74,0,24,322,134,2,Los Angeles Rams
+2,2021-09-19,13:00:00,0,0,Indianapolis Colts,27,24,21,371,101,2,22,354,109,2,Los Angeles Rams
+3,2021-09-26,16:25:00,0,1,Tampa Bay Buccaneers,34,24,22,407,76,0,27,446,35,0,Los Angeles Rams
+4,2021-10-03,16:05:00,0,1,Arizona Cardinals,20,37,24,401,121,2,27,465,216,0,Los Angeles Rams
+5,2021-10-07,20:20:00,0,0,Seattle Seahawks,26,17,24,476,118,1,22,354,92,2,Los Angeles Rams
+6,2021-10-17,13:00:00,0,0,New York Giants,38,11,22,365,131,2,21,261,60,4,Los Angeles Rams
+7,2021-10-24,16:05:00,0,1,Detroit Lions,28,19,22,374,47,0,19,415,137,2,Los Angeles Rams
+8,2021-10-31,13:00:00,0,0,Houston Texans,38,22,26,467,165,0,18,323,44,1,Los Angeles Rams
+9,2021-11-07,20:20:00,0,1,Tennessee Titans,16,28,22,347,94,2,16,194,69,1,Los Angeles Rams
+10,2021-11-15,20:15:00,0,0,San Francisco 49ers,10,31,16,278,52,2,20,335,156,0,Los Angeles Rams
+12,2021-11-28,16:25:00,0,0,Green Bay Packers,28,36,15,353,68,3,21,399,92,1,Los Angeles Rams
+13,2021-12-05,16:25:00,0,1,Jacksonville Jaguars,37,7,24,418,128,0,14,197,61,2,Los Angeles Rams
+14,2021-12-13,20:15:00,0,0,Arizona Cardinals,30,23,18,356,89,0,22,447,103,2,Los Angeles Rams
+15,2021-12-21,19:00:00,0,1,Seattle Seahawks,20,10,20,332,123,1,13,214,80,1,Los Angeles Rams
+16,2021-12-26,13:00:00,0,0,Minnesota Vikings,30,23,22,356,159,3,19,361,66,1,Los Angeles Rams
+17,2022-01-02,16:25:00,0,0,Baltimore Ravens,20,19,20,373,73,3,19,327,165,2,Los Angeles Rams
+18,2022-01-09,16:25:00,1,1,San Francisco 49ers,24,27,19,265,64,2,23,449,135,2,Los Angeles Rams
+19,2022-01-17,20:15:00,0,1,Arizona Cardinals,34,11,16,375,140,0,14,183,61,2,Los Angeles Rams
+20,2022-01-23,15:00:00,0,0,Tampa Bay Buccaneers,30,27,24,428,73,4,20,359,51,2,Los Angeles Rams
+21,2022-01-30,18:30:00,0,1,San Francisco 49ers,20,17,25,396,70,1,16,282,50,1,Los Angeles Rams
+1,2021-09-12,13:00:00,0,0,Tennessee Titans,38,13,22,416,136,1,17,248,86,3,Arizona Cardinals
+2,2021-09-19,16:05:00,0,1,Minnesota Vikings,34,33,21,474,103,2,22,419,177,0,Arizona Cardinals
+3,2021-09-26,13:00:00,0,0,Jacksonville Jaguars,31,19,23,407,91,1,20,361,159,4,Arizona Cardinals
+4,2021-10-03,16:05:00,0,0,Los Angeles Rams,37,20,27,465,216,0,24,401,121,2,Arizona Cardinals
+5,2021-10-10,16:25:00,0,1,San Francisco 49ers,17,10,20,304,94,1,19,338,152,1,Arizona Cardinals
+6,2021-10-17,16:05:00,0,0,Cleveland Browns,37,14,24,352,144,0,16,290,73,3,Arizona Cardinals
+7,2021-10-24,16:25:00,0,1,Houston Texans,31,5,24,397,172,1,8,160,42,1,Arizona Cardinals
+8,2021-10-28,20:20:00,0,1,Green Bay Packers,21,24,22,334,74,3,24,335,151,0,Arizona Cardinals
+9,2021-11-07,16:25:00,0,0,San Francisco 49ers,31,17,22,437,163,0,22,337,39,3,Arizona Cardinals
+10,2021-11-14,16:05:00,0,1,Carolina Panthers,10,34,11,169,65,2,24,341,166,2,Arizona Cardinals
+11,2021-11-21,16:25:00,0,0,Seattle Seahawks,23,13,29,413,95,0,16,266,86,0,Arizona Cardinals
+13,2021-12-05,13:00:00,0,0,Chicago Bears,33,22,14,257,137,0,26,329,112,4,Arizona Cardinals
+14,2021-12-13,20:15:00,0,1,Los Angeles Rams,23,30,22,447,103,2,18,356,89,0,Arizona Cardinals
+15,2021-12-19,13:00:00,0,0,Detroit Lions,12,30,23,398,105,1,22,338,126,1,Arizona Cardinals
+16,2021-12-25,20:15:00,0,1,Indianapolis Colts,16,22,20,378,133,0,20,346,126,0,Arizona Cardinals
+17,2022-01-02,13:00:00,0,0,Dallas Cowboys,25,22,23,399,127,0,19,301,45,1,Arizona Cardinals
+18,2022-01-09,16:25:00,0,1,Seattle Seahawks,30,38,20,305,118,1,19,431,202,2,Arizona Cardinals
+19,2022-01-17,20:15:00,0,0,Los Angeles Rams,11,34,14,183,61,2,16,375,140,0,Arizona Cardinals
+1,2021-09-12,13:00:00,0,0,Detroit Lions,41,33,21,442,131,2,31,430,116,1,San Francisco 49ers
+2,2021-09-19,13:00:00,0,0,Philadelphia Eagles,17,11,23,306,117,0,18,328,151,0,San Francisco 49ers
+3,2021-09-26,20:20:00,0,1,Green Bay Packers,28,30,26,298,67,2,21,353,100,0,San Francisco 49ers
+4,2021-10-03,16:05:00,0,1,Seattle Seahawks,21,28,23,457,143,2,14,234,105,0,San Francisco 49ers
+5,2021-10-10,16:25:00,0,0,Arizona Cardinals,10,17,19,338,152,1,20,304,94,1,San Francisco 49ers
+7,2021-10-24,20:20:00,0,1,Indianapolis Colts,18,30,13,280,111,4,17,295,148,2,San Francisco 49ers
+8,2021-10-31,13:00:00,0,0,Chicago Bears,33,22,21,467,145,0,22,324,176,1,San Francisco 49ers
+9,2021-11-07,16:25:00,0,1,Arizona Cardinals,17,31,22,337,39,3,22,437,163,0,San Francisco 49ers
+10,2021-11-15,20:15:00,0,1,Los Angeles Rams,31,10,20,335,156,0,16,278,52,2,San Francisco 49ers
+11,2021-11-21,13:00:00,0,0,Jacksonville Jaguars,30,10,25,333,171,0,14,200,54,2,San Francisco 49ers
+12,2021-11-28,16:25:00,0,1,Minnesota Vikings,34,26,23,423,208,1,17,323,67,2,San Francisco 49ers
+13,2021-12-05,16:00:00,0,0,Seattle Seahawks,23,30,17,365,71,3,21,327,146,3,San Francisco 49ers
+14,2021-12-12,13:00:00,1,0,Cincinnati Bengals,26,23,21,355,100,0,22,397,86,2,San Francisco 49ers
+15,2021-12-19,16:05:00,0,1,Atlanta Falcons,31,13,23,397,162,1,13,275,62,1,San Francisco 49ers
+16,2021-12-23,20:20:00,0,0,Tennessee Titans,17,20,22,389,83,2,16,278,90,0,San Francisco 49ers
+17,2022-01-02,16:05:00,0,1,Houston Texans,23,7,19,416,175,1,15,222,86,1,San Francisco 49ers
+18,2022-01-09,16:25:00,1,0,Los Angeles Rams,27,24,23,449,135,2,19,265,64,2,San Francisco 49ers
+19,2022-01-16,16:40:00,0,0,Dallas Cowboys,23,17,21,341,169,1,20,307,77,1,San Francisco 49ers
+20,2022-01-22,20:15:00,0,0,Green Bay Packers,13,10,12,212,106,1,14,263,67,1,San Francisco 49ers
+21,2022-01-30,18:30:00,0,0,Los Angeles Rams,17,20,16,282,50,1,25,396,70,1,San Francisco 49ers
+1,2021-09-12,13:00:00,0,0,Indianapolis Colts,28,16,18,381,140,1,23,336,113,1,Seattle Seahawks
+2,2021-09-19,16:25:00,1,1,Tennessee Titans,30,33,17,397,77,0,33,532,212,1,Seattle Seahawks
+3,2021-09-26,16:25:00,0,0,Minnesota Vikings,17,30,21,389,106,0,28,453,140,0,Seattle Seahawks
+4,2021-10-03,16:05:00,0,0,San Francisco 49ers,28,21,14,234,105,0,23,457,143,2,Seattle Seahawks
+5,2021-10-07,20:20:00,0,1,Los Angeles Rams,17,26,22,354,92,2,24,476,118,1,Seattle Seahawks
+6,2021-10-17,20:20:00,1,0,Pittsburgh Steelers,20,23,18,309,144,1,22,345,119,1,Seattle Seahawks
+7,2021-10-25,20:15:00,0,1,New Orleans Saints,10,13,14,219,90,0,21,304,94,1,Seattle Seahawks
+8,2021-10-31,16:05:00,0,1,Jacksonville Jaguars,31,7,17,229,69,0,20,309,82,1,Seattle Seahawks
+10,2021-11-14,16:25:00,0,0,Green Bay Packers,0,17,15,208,75,2,22,393,106,1,Seattle Seahawks
+11,2021-11-21,16:25:00,0,1,Arizona Cardinals,13,23,16,266,86,0,29,413,95,0,Seattle Seahawks
+12,2021-11-29,20:15:00,0,0,Washington Football Team,15,17,10,267,34,1,27,371,152,1,Seattle Seahawks
+13,2021-12-05,16:00:00,0,1,San Francisco 49ers,30,23,21,327,146,3,17,365,71,3,Seattle Seahawks
+14,2021-12-12,13:00:00,0,0,Houston Texans,33,13,20,453,193,0,25,380,63,0,Seattle Seahawks
+15,2021-12-21,19:00:00,0,0,Los Angeles Rams,10,20,13,214,80,1,20,332,123,1,Seattle Seahawks
+16,2021-12-26,16:05:00,0,1,Chicago Bears,24,25,18,331,170,0,26,317,88,0,Seattle Seahawks
+17,2022-01-02,16:25:00,0,1,Detroit Lions,51,29,29,497,265,0,20,357,95,3,Seattle Seahawks
+18,2022-01-09,16:25:00,0,0,Arizona Cardinals,38,30,19,431,202,2,20,305,118,1,Seattle Seahawks
